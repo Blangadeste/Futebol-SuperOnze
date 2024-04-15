@@ -1,0 +1,52 @@
+.cabeca {
+    height: 120px;
+    width: 100%;
+    padding: 4px 0;
+    background-color: rgb(78, 184, 255);
+    text-align: center;
+}
+
+#sup{
+    position: relative;
+    display: inline-block;
+}
+
+
+body{
+    background-color:azure
+}
+
+table{
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20;
+  height: 20;
+  
+}
+tr{
+  background-color: rgb(255, 255, 255);
+}
+
+h1{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+footer{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(88, 127, 201);
+    text-align: center;
+  }

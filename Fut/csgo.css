@@ -1,0 +1,139 @@
+body{
+    background-color:azure
+}
+
+table{
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+tr{
+  background-color: azure;
+}
+
+#centr{
+  position: relative;
+  display: inline-block;
+}
+
+.ult{
+  display: flex;
+  align-items: flex-start;
+  width: 44;
+  height: 120;
+  background-color: rgb(85, 170, 59);
+}
+
+.ult1{
+  display: flex;
+  align-items: flex-start;
+  width: 44;
+  height: 120;
+  background-color: rgb(15, 121, 33);
+}
+.ult2{
+  display: flex;
+  align-items: flex-start;
+  width: 44;
+  height: 120;
+  background-color: rgb(27, 20, 19);
+}
+
+.ult3{
+  display: flex;
+  align-items: flex-start;
+  width: 44;
+  height: 120;
+  background-color: rgb(102, 12, 12);
+}
+
+.ult4{
+  display: flex;
+  align-items: flex-start;
+  width: 44;
+  height: 120;
+  background-color: rgb(158, 47, 47);
+}
+
+#centro{
+  position: relative;
+  display: inline-block;
+}
+
+.cabeca {
+    height: 120px;
+    width: 100%;
+    padding: 4px 0;
+    background-color: rgb(78, 184, 255);
+    text-align: center;
+}
+
+#sup{
+    position: relative;
+    display: inline-block;
+}
+
+.flex{
+    display: flex;
+    align-items: flex-start;
+}
+
+.t1{
+    text-align: center;
+    flex: 1;
+	  margin: 5px;
+}
+
+.bord{
+  border: 3px solid rgb(0, 0, 0);
+}
+
+.pulado{
+  display: flex;
+  align-content: space-around;
+}
+
+#p1{
+    filter: grayscale(100%);
+  }
+  #p1:hover{
+    filter: grayscale(0%);
+  }
+
+  #p2{
+    filter: grayscale(100%);
+  }
+  #p2:hover{
+    filter: grayscale(0%);
+  }
+
+  #p3{
+    filter: grayscale(100%);
+  }
+  #p3:hover{
+    filter: grayscale(0%);
+  }
+
+h1{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+footer{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(88, 127, 201);
+    text-align: center;
+  }
